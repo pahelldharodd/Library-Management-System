@@ -1,0 +1,36 @@
+# Java-related files
+*.class
+*.jar
+*.war
+*.ear
+
+# Logs
+*.log
+
+# IDE-specific files
+/.classpath
+/.project
+/.settings/
+/.idea/
+/*.iml
+*.vscode/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Build directories
+/bin/
+/build/
+/out/
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+*.swo
+
+# Serialized objects
+myBooksObject.txt
+myUsersObject.txt
+myIssuedBooksObject.txt
